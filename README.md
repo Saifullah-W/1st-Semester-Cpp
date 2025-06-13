@@ -1,2 +1,2 @@
-# 1st-Semester-Cpp
+# 1st-Semester-Cpp-Project
 1st-Semester-project+Pactice-Material
